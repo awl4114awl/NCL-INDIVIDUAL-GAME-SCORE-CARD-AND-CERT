@@ -1,4 +1,4 @@
-<h1>NCL SPRING 2024 INDIVIDUAL GAME SCORE CARD & CERT</h1>
+<h1 align="center">NCL SPRING 2024 INDIVIDUAL GAME SCORE CARD & CERT</h1>
 <p align="center">
 <img src="https://i.imgur.com/DqEUbtR.png" height="100%" width="100%" alt="NCL GAME"/>
  
@@ -24,7 +24,7 @@
 <img src="https://i.imgur.com/c5jnOV8.png" height="80%" width="80%" alt="NCL GAME"/>
 <img src="https://i.imgur.com/bLQC3DH.png" height="80%" width="80%" alt="NCL GAME"/>
 
-<h1>NCL SPRING 2024 INDIVIDUAL GAME CERTIFICATE OF COMPLETION</h1>
+<h1 align="center">NCL SPRING 2024 INDIVIDUAL GAME CERTIFICATE OF COMPLETION</h1>
 
 <p align="center">
 <img src="https://i.imgur.com/D9TtwO3.png" height="80%" width="80%" alt="NCL GAME"/>
