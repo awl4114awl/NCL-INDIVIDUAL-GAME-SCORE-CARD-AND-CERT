@@ -24,7 +24,7 @@
 <img src="https://i.imgur.com/c5jnOV8.png" height="80%" width="80%" alt="NCL GAME"/>
 <img src="https://i.imgur.com/bLQC3DH.png" height="80%" width="80%" alt="NCL GAME"/>
 
-<h1 align="center">NCL SPRING 2024 INDIVIDUAL GAME CERTIFICATE OF COMPLETION</h1>
+<h1 align="center">NCL SPRING 2024 INDIVIDUAL GAME CERTIFICATE OF PARTICIPATION</h1>
 
 <p align="center">
 <img src="https://i.imgur.com/D9TtwO3.png" height="80%" width="80%" alt="NCL GAME"/>
