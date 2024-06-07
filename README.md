@@ -2,8 +2,6 @@
 <p align="center">
 <img src="https://i.imgur.com/DqEUbtR.png" height="50%" width="50%" alt="NCL GAME"/>
  
-## Description
-
 ##### This repository contains detailed documents related to my participation in the National Cyber League (NCL) Spring 2024 Individual Game. 
     
 ##### It includes the game scouting report, detailed scorecards for various cybersecurity challenges, and a certificate of participation.
