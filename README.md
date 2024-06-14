@@ -1,4 +1,4 @@
-<h1 align="center">NCL SPRING 2024 INDIVIDUAL GAME SCORE CARD & CERT</h1>
+<h1 align="center">National Cyber League Spring 2024 Individual Game Score Card & Certification</h1>
 <p align="center">
 <img src="https://i.imgur.com/DqEUbtR.png" height="50%" width="50%" alt="NCL GAME"/>
  
